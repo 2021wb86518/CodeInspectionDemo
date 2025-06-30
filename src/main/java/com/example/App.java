@@ -1,4 +1,4 @@
-package com.rounak;
+package com.example;
 
 import org.springframework.boot SpringApplication;
 
