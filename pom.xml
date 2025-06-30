@@ -9,9 +9,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <relativePath/> <!-- lookup parent from repository -->
 </parent>
 <groupId>com.Rounak</groupId>
-<artifactId>codeinspection</artifactId>
+<artifactId>codeinspectionDemo</artifactId>
 <version>0.0.1-SNAPSHOT</version>
-<name>codeInspecion</name>
+<name>codeInspecionDemo</name>
 <description> Demo project for Spring Boot</description>
 <properties>
 <java.version>11</java.version>
